@@ -3,9 +3,6 @@
 Sebuah portofolio web yang mensimulasikan pengalaman menggunakan *command-line interface* (CLI) dengan estetika retro dan nuansa *hacker*.
 
 ![Screenshot Portofolio Terminal](https://i.ibb.co/H5DL8mH/portfolio-terminal.jpg))
-*(Ganti link di atas dengan link screenshot portofolio Anda. Anda bisa mengunggah gambar Anda ke imgur.com untuk mendapatkan link)*
-
----
 
 ### **[➡️ Lihat Live Demo](https://abdurrahim0119.github.io/Portfolio_CMD/)** *(Ganti URL ini dengan link GitHub Pages Anda setelah di-deploy)*
 
